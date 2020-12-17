@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		5E9FC56E1819749300E2765E /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5E9FC56D1819749300E2765E /* main.cpp */; };
+		5E9FC56E1819749300E2765E /* Pennnies for Pay.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5E9FC56D1819749300E2765E /* Pennnies for Pay.cpp */; };
 		5E9FC5701819749300E2765E /* Pennies_for_Pay.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 5E9FC56F1819749300E2765E /* Pennies_for_Pay.1 */; };
 /* End PBXBuildFile section */
 
@@ -26,7 +26,7 @@
 
 /* Begin PBXFileReference section */
 		5E9FC5691819749300E2765E /* Pennies for Pay */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Pennies for Pay"; sourceTree = BUILT_PRODUCTS_DIR; };
-		5E9FC56D1819749300E2765E /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5E9FC56D1819749300E2765E /* Pennnies for Pay.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Pennnies for Pay.cpp"; sourceTree = "<group>"; };
 		5E9FC56F1819749300E2765E /* Pennies_for_Pay.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = Pennies_for_Pay.1; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -60,7 +60,7 @@
 		5E9FC56C1819749300E2765E /* Pennies for Pay */ = {
 			isa = PBXGroup;
 			children = (
-				5E9FC56D1819749300E2765E /* main.cpp */,
+				5E9FC56D1819749300E2765E /* Pennnies for Pay.cpp */,
 				5E9FC56F1819749300E2765E /* Pennies_for_Pay.1 */,
 			);
 			path = "Pennies for Pay";
@@ -117,7 +117,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5E9FC56E1819749300E2765E /* main.cpp in Sources */,
+				5E9FC56E1819749300E2765E /* Pennnies for Pay.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
